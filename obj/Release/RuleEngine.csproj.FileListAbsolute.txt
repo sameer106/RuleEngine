@@ -1,0 +1,7 @@
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\bin\Release\RuleEngine.Core.dll
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\bin\Release\RuleEngine.Core.pdb
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\obj\Release\RuleEngine.csprojResolveAssemblyReference.cache
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\obj\Release\RuleEngine.Core.dll
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\obj\Release\RuleEngine.Core.pdb
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\bin\Release\Newtonsoft.Json.dll
+D:\Project\IWP_ReEng\ClaimAPI\ClaimAPI\RuleEngines\RuleEngine.Core\bin\Release\Newtonsoft.Json.xml
